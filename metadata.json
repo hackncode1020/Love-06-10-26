@@ -1,0 +1,6 @@
+{
+  "name": "A Little Universe For You",
+  "description": "A cinematic, deeply romantic interactive birthday surprise website celebrating the one you love under a starry cosmos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
